@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SwitchLanguageLibrary</string>
+    <string name="select_language">SelectLanguage</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="language">Language</string>
+    <string name="chinese">Chinese</string>
+    <string name="english">English</string>
+    <string name="japanese">Japanese</string>
+    <string name="follow_system">FollowSystem</string>
+</resources>
